@@ -5,7 +5,7 @@ using namespace std;
 
 double age_calc(double num1, double num2, double num3)
 {
-  double r = 737727;
+  double r = 737728;
   double x = num1 * 365;
   double y = num2 * 30;
   double z = x + y + num3;
